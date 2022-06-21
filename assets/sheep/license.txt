@@ -1,0 +1,11 @@
+Model Information:
+* title:	Medium | Sheep-Balloon
+* source:	https://sketchfab.com/3d-models/medium-sheep-balloon-739ac99776db4239aa8a87b17003bd7d
+* author:	smeerws (https://sketchfab.com/smeerws)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Medium | Sheep-Balloon" (https://sketchfab.com/3d-models/medium-sheep-balloon-739ac99776db4239aa8a87b17003bd7d) by smeerws (https://sketchfab.com/smeerws) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
